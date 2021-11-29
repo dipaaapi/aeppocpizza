@@ -1,0 +1,1 @@
+<img src="{{ url('/img/luxlandscapelogo.png') }}" alt="logo landscape">

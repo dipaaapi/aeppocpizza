@@ -1,0 +1,1 @@
+<img src="{{ url('/img/eappoclogo.png') }}" alt="logo" class="w-full">
